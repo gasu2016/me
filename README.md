@@ -5,24 +5,24 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
 
 ## 記事
 
-##### 特集　デジタルトランスフォーメーションの社内推進とそのショーケース化による収益貢献を目指すNTT Comシステム部の挑戦 
+#### 特集　デジタルトランスフォーメーションの社内推進とそのショーケース化による収益貢献を目指すNTT Comシステム部の挑戦 
 
 * https://www.bcm.co.jp/site/2019/02/ntt-com/1902-ntt-com-01-03.pdf
 
-##### 2019.06.21 DXを加速させるITシステムの運用改革第6回 情シスの仕事が変わる！最新トレンドはワークフローのデジタル化(Bizコンパス編集部)
+#### 2019.06.21 DXを加速させるITシステムの運用改革第6回 情シスの仕事が変わる！最新トレンドはワークフローのデジタル化(Bizコンパス編集部)
 
 * https://www.bizcompass.jp/orig-ac/bu-growth-121-6.html
 
 ## 受賞
 
-##### メディア×AI ハッカソン(Hackathon: UI for NEWS MEDIA × AI) 特別賞
+#### メディア×AI ハッカソン(Hackathon: UI for NEWS MEDIA × AI) 特別賞
 
 * 受賞日2016年10月  授与組織BA社、G’s ACADEMY TOKYO 
 * 説明
   * https://hackathon-ai.peatix.com/?lang=ja
   * 自己研鑽でハッカソン初参加．
 
-##### 実践！共通語彙基盤ワークショップ・ハッカソン 技術部門賞
+#### 実践！共通語彙基盤ワークショップ・ハッカソン 技術部門賞
 
 * 受賞日2017年10月  授与組織SoftBank Technology Corp. https://www.softbanktech.co.jp
 * 説明
@@ -34,7 +34,7 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
   * apigee(https://cloud.google.com/apigee-api-management/)
   * LINE@ Messaging API(https://developers.line.biz/ja/services/messaging-api/)
 
-##### ServiceNow Japan Hackathon Grand Prix
+#### ServiceNow Japan Hackathon Grand Prix
 
 * 受賞日2018年9月  授与組織ServiceNow Japan
 * 説明
@@ -43,7 +43,7 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
   * ServiceNow(https://developer.servicenow.com/app.do#!/home)
   * LINE@ Messaging API
 
-##### ServiceNow CreatorCon Hackathon 2019 - Social good winner
+#### ServiceNow CreatorCon Hackathon 2019 - Social good winner
 
 * 受賞日2019年5月  授与組織ServiceNow
 * 説明
@@ -54,7 +54,7 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
 * Tech
   * ServiceNow
 
-##### ServiceNow Japan Hackathon 準グランプリ
+#### ServiceNow Japan Hackathon 準グランプリ
 
 * 受賞日2019年7月　授与組織ServiceNow Japan
 * 説明
