@@ -3,6 +3,14 @@
 * LinkedIn
 https://www.linkedin.com/in/naomi-sugawara-387a79171
 
+## 記事
+
+上記以外で載せていただいた記事．
+
+* 特集　デジタルトランスフォーメーションの社内推進とそのショーケース化による収益貢献を目指すNTT Comシステム部の挑戦 
+  * https://www.bcm.co.jp/site/2019/02/ntt-com/1902-ntt-com-01-03.pdf
+* 2019.06.21 DXを加速させるITシステムの運用改革第6回 情シスの仕事が変わる！最新トレンドはワークフローのデジタル化(Bizコンパス編集部)
+  * https://www.bizcompass.jp/orig-ac/bu-growth-121-6.html
 
 ## 受賞
 
@@ -32,7 +40,7 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
 * ServiceNow CreatorCon Hackathon 2019 - Social good winner
   * 受賞日2019年5月  授与組織ServiceNow
   * 説明
-    * Attended as a Team leader and ServiceNow developer
+    * Attended as a Team leader and ServiceNow developer* 
     * Backgrounds - currently, the call center agents today may exclude workers with a hearing disability. The purpose of this application is to expand this workforce to include those workers.
     * I teamed up with the person I met there and my company at the international hackathon
     * https://blogs.servicenow.com/2019/servicenow-hackathon-winners-2019.html
@@ -43,3 +51,5 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
   * 受賞日2019年7月　授与組織ServiceNow Japan
   * 説明
     * https://twitter.com/NTTCom_online/status/1157169194552549376
+
+
