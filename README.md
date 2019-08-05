@@ -5,8 +5,6 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
 
 ## 記事
 
-上記以外で載せていただいた記事．
-
 * 特集　デジタルトランスフォーメーションの社内推進とそのショーケース化による収益貢献を目指すNTT Comシステム部の挑戦 
   * https://www.bcm.co.jp/site/2019/02/ntt-com/1902-ntt-com-01-03.pdf
 * 2019.06.21 DXを加速させるITシステムの運用改革第6回 情シスの仕事が変わる！最新トレンドはワークフローのデジタル化(Bizコンパス編集部)
@@ -18,6 +16,7 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
   * 受賞日2016年10月  授与組織BA社、G’s ACADEMY TOKYO 
   * 説明
     * https://hackathon-ai.peatix.com/?lang=ja
+    * 自己研鑽でハッカソン初参加．
 
 * 実践！共通語彙基盤ワークショップ・ハッカソン 技術部門賞
   * 受賞日2017年10月  授与組織SoftBank Technology Corp. https://www.softbanktech.co.jp
@@ -25,6 +24,7 @@ https://www.linkedin.com/in/naomi-sugawara-387a79171
     * https://peatix.com/event/298493
     *  Attended as a developer
     *  We created the LINE@ bot. Bot recommends the events held at Osaka City. The event information on different sites can be viewed in a common UI.
+    * 自己研鑚で参加
   * Tech
     * apigee(https://cloud.google.com/apigee-api-management/)
     * LINE@ Messaging API(https://developers.line.biz/ja/services/messaging-api/)
